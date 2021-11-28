@@ -1,0 +1,10 @@
+{
+    "name": "exp-cesium",
+    "version": "0.0.1",
+    "private": true,
+    "main": "index.js",
+    "dependencies": {
+        "cesium": "^1.87.1",
+        "st": "^3.0.0"
+    }
+}
